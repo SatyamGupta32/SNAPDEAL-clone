@@ -4,6 +4,8 @@
 In this project, we'll create a basic clone of Snapdeal using HTML, CSS and JavaScript. While this won't replicate all the functionality of Snapdeal, it will focus on mimicking the layout and visual design of the homepage.
 but this is not responsive or only for computer-site clone .
 
+### You can checkout this website here : [https://satyam-netflix-responsive-clone.netlify.app](https://661f7ddf6992497da7dc703c--magical-basbousa-7e467b.netlify.app/)
+
 ## there were three section :-
 
 ## Steps
@@ -45,3 +47,7 @@ but this is not responsive or only for computer-site clone .
 
 ## Conclusion
 By following these steps, you can create a basic clone of Snapdeal using HTML, CSS and JavaScript. Remember that this is just a starting point, and you can always expand and improve upon it with additional features and functionality.
+
+## Provided link of original website
+https://www.snapdeal.com/
+
