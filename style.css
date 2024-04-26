@@ -1284,9 +1284,10 @@ html {
 
 .footer {
   display: flex;
-  width: 1700px;
+  width: 1850px;
   justify-content: space-between;
   margin: 5px 100px;
+  margin: auto;
   font-size: 12px;
 }
 
@@ -1323,7 +1324,7 @@ html {
   height: 25px;
   position: relative;
   top: 15px;
-  animation: beat 2s infinite alternate;
+  animation: beat 1s infinite 1s alternate;
 }
 
 .hearticon::before,
